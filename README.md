@@ -1,6 +1,6 @@
 ### Hi, I'm Charlie Rego 👋
 
-**Data professional in Brisbane** · turning messy data into clear decisions · open to data roles in Australia
+**Data professional** · Australia · Open to data roles
 
 I came to data from an unlikely direction: three years auditing listed companies at EY. That taught me to be rigorous about data quality and to turn numbers into decisions people act on. Since then I've completed a Master of Data Science at QUT, done embedded data science at a property tech startup, and worked as a Project Officer with the Queensland Government on an AI-assisted land assessment tool.
 
@@ -13,10 +13,6 @@ A self-updating six-month forecast of Gold Coast Airport passengers from BITRE o
 **[Automated Hospital Data Monitoring System](https://github.com/CharlieRego/qld-hospital-analytics)** · [project page](https://charlierego.com/projects/hospital-data-monitoring)<br/>
 A live ELT pipeline benchmarking Queensland hospitals on public AIHW MyHospitals data. Loads each release exactly once into PostgreSQL, reconciles every load with dbt tests, and runs weekly in Docker with a full audit trail.<br/>
 <sub>Python · PostgreSQL · dbt · Docker · Power BI</sub>
-
-**[charlierego.com](https://charlierego.com)**<br/>
-My portfolio site, built from scratch, with a real-time chat so recruiters can message me directly.<br/>
-<sub>Next.js · TypeScript · Tailwind CSS · Firebase · Vercel</sub>
 
 #### Experience
 
